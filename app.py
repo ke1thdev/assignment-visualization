@@ -34,6 +34,18 @@ st.markdown("""
         padding: 1.5rem;
         margin: 1rem 0;
         box-shadow: 6px 6px 0px #1a1a1a;
+        color: #1a1a1a !important;
+    }
+    
+    .neu-card p {
+        color: #1a1a1a !important;
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 0.8rem;
+    }
+    
+    .neu-card strong {
+        color: #1a1a1a !important;
     }
     
     /* Title styling */
