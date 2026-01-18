@@ -128,6 +128,36 @@ The `data.csv` file contains the following columns:
 
 ---
 
+## 📚 Data Sources & References
+
+The data presented in this visualization is based on credible research sources:
+
+### Data Center Electricity Consumption
+- Data center electricity consumption values are based on the **International Energy Agency (IEA)** Energy and AI report
+- The reported 2024 value (415 TWh) and an approximate 12% annual growth rate were used to estimate values for 2022–2023 and project values for 2025–2026
+
+### AI Compute Growth
+- AI training compute growth is represented using a relative index (2022=1), based on analyses from the **Stanford AI Index** and related studies reporting rapid exponential growth in AI training compute
+
+### References
+
+1. **International Energy Agency.** (2024). *Energy and AI: Energy demand from AI.*  
+   https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai
+
+2. **International Energy Agency.** (2024). *Electricity 2024: Analysis and forecast to 2026.*  
+   https://www.iea.org/reports/electricity-2024
+
+3. **Stanford University Human-Centered Artificial Intelligence Institute.** (2024). *AI Index Report 2024.*  
+   https://hai.stanford.edu/ai-index/2025-ai-index-report
+
+4. **Epoch AI.** (2023). *Key Trends and Figures in Machine Learning.*  
+   https://epoch.ai/trends
+
+5. **Microsoft Corporation.** (2023). *Advancing sustainability in data centers.*  
+   https://datacenters.microsoft.com/sustainability
+
+> ⚠️ **Note:** 2025–2026 values are projections based on historical growth rates and industry forecasts.
+
 ## 🚀 Deployment
 
 This app is deployed on **Streamlit Community Cloud**. To deploy your own:
